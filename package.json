@@ -1,0 +1,19 @@
+{
+  "name": "isolator-native",
+  "version": "0.0.1",
+  "description": "Isolator native build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/isolator-native.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/isolator-native/issues"
+  },
+  "homepage": "https://github.com/modulesio/isolator-native#readme"
+}
