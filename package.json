@@ -1,5 +1,5 @@
 {
-  "name": "isolator-native",
+  "name": "isolator",
   "version": "0.0.1",
   "description": "Isolator native build",
   "main": "index.js",
